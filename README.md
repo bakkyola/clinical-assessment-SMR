@@ -1,9 +1,11 @@
 # clinical-assessment-SMR
 
-# Structured Medication Review with LLMs (BNF/NICE-Guided)
+# Structured Medication Review with LLMs 
 
 This repository contains code developed as part of **Olayemi Bakare’s MSc Research Work** at *Queen Mary University of London (Digital Environment and Innovation Lab)*.  
-It demonstrates how Large Language Models (LLMs) can be applied to **structured medication reviews** in **polypharmacy / multimorbidity patients**, aligning prescriptions with **BNF/NICE clinical guidelines**.
+
+It demonstrates how Large Language Models (LLMs) can be applied to **structured medication reviews** in **polypharmacy / multimorbidity patients**, aligning prescriptions with 
+**BNF/NICE clinical guidelines**.
 
 ---
 
@@ -54,7 +56,7 @@ source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 
-(If you don’t have a requirements.txt, simply install transformers and pandas.)
+_(If you don’t have a requirements.txt, simply install transformers and pandas.)_
 
 3. Add patient data
 Place your patient data in `patients.json`.
@@ -81,12 +83,15 @@ Format:
 Open the notebook in Jupyter:
 jupyter notebook medication_review.ipynb
 
-Or run it directly in VS Code / JupyterLab.
+ _Or run it directly in VS Code / JupyterLab._
 
 5. Outputs
+```
 Raw LLM outputs: saved in results/{patient_id}_medication_diagnosis_result.txt
 Structured CSVs: saved in results_csv/{patient_id}_medication_diagnosis_structured.csv
 Each CSV contains columns:
+```
+
 ```
 | Medication | Matched Diagnosis | Guideline Compliance | Citation | Notes | Optimisation Recommendation |
 | ---------- | ----------------- | -------------------- | -------- | ----- | --------------------------- |
