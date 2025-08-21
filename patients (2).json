@@ -1,0 +1,72 @@
+{
+    "PAT001": {
+        "patient_id": "PAT001",
+        "age": "63",
+        "sex": "Male",
+        "diagnosis": "Stroke (Primary); Anxiety; Depression; Hypertension; Coronary Heart Disease; Chronic Pain; Osteoarthritis; Dyslipidemia",
+        "medication": "Sertraline (0403030Q0); Bisoprolol (0204000H0); Simvastatin (0212000Y0); Codeine (0407020C0); Atorvastatin (0212000B0); Multivitamin (0906010); Paracetamol (0407010H0); Bendroflumethiazide (0202010B0); Clopidogrel (0209000C0); Ibuprofen (1001010J0)"
+    },
+    "PAT002": {
+        "patient_id": "PAT002",
+        "age": "68",
+        "sex": "Female",
+        "diagnosis": "Chronic Kidney Disease (Primary); Hypertension; Dyslipidemia; Type 2 Diabetes; Asthma",
+        "medication": "Ramipril (0205051R0); Folic Acid (0906040L0); Vitamin B12 (0905010); Omeprazole (0103050P0); Beclometasone inhaler (0302000C0); Gliclazide (0601021M0); Atorvastatin (0212000B0); Salbutamol (0301011R0); Insulin glargine (0601012V0); Calcium + Vitamin D (0906020AE); Multivitamin (0906010)"
+    },
+    "PAT003": {
+        "patient_id": "PAT003",
+        "age": "51",
+        "sex": "Female",
+        "diagnosis": "Heart Failure (Primary); Hypertension; GERD; Dyslipidemia; Type 2 Diabetes",
+        "medication": "Bisoprolol (0204000H0); Ramipril (0205051R0); Spironolactone (0202030S0); Simvastatin (0212000Y0); Gliclazide (0601021M0); Omeprazole (0103050P0); Furosemide (0202020L0); Metformin (0601022B0); Lisinopril (0205051L0); Multivitamin (0906010)"
+    },
+    "PAT004": {
+        "patient_id": "PAT004",
+        "age": "75",
+        "sex": "Female",
+        "diagnosis": "Hypertension (Primary); Osteoarthritis; Dyslipidemia",
+        "medication": "Bisoprolol (0204000H0); Folic Acid (0906040L0); Vitamin B12 (0905010); Losartan (0205052N0); Codeine (0407020C0); Atorvastatin (0212000B0); Calcium + Vitamin D (0906020AE); Multivitamin (0906010); Paracetamol (0407010H0); Ibuprofen (1001010J0)"
+    },
+    "PAT005": {
+        "patient_id": "PAT005",
+        "age": "89",
+        "sex": "Male",
+        "diagnosis": "Type 2 Diabetes (Primary); Heart Failure; Anxiety; Depression; Hypertension; Coronary Heart Disease; Dyslipidemia",
+        "medication": "Bisoprolol (0204000H0); Sertraline (0403030Q0); Ramipril (0205051R0); Spironolactone (0202030S0); Carbamazepine (0408010C0); Simvastatin (0212000Y0); Furosemide (0202020L0); Metformin (0601022B0); Buspirone (0406030B0); Lisinopril (0205051L0); Sitagliptin (0601023X0); Clopidogrel (0209000C0)"
+    },
+    "PAT006": {
+        "patient_id": "PAT006",
+        "age": "61",
+        "sex": "Male",
+        "diagnosis": "Dyslipidemia (Primary); Hypertension; COPD; Coronary Heart Disease",
+        "medication": "Indapamide (0202010P0); Folic Acid (0906040L0); Tiotropium (0301020Q0); Simvastatin (0212000Y0); Vitamin B12 (0905010); Salbutamol (0301011R0); Calcium + Vitamin D (0906020AE); Multivitamin (0906010); Paracetamol (0407010H0); Clopidogrel (0209000C0)"
+    },
+    "PAT007": {
+        "patient_id": "PAT007",
+        "age": "65",
+        "sex": "Male",
+        "diagnosis": "COPD (Primary); Atrial Fibrillation; Heart Failure; Hypertension; Dyslipidemia; Type 2 Diabetes; Hypothyroidism",
+        "medication": "Bisoprolol (0204000H0); Spironolactone (0202030S0); Ramipril (0205051R0); Tiotropium (0301020Q0); Simvastatin (0212000Y0); Salmeterol (0301011U0); Furosemide (0202020L0); Salbutamol (0301011R0); Metformin (0601022B0); Warfarin (0208020V0); Bendroflumethiazide (0202010B0); Levothyroxine (0602010V0)"
+    },
+    "PAT008": {
+        "patient_id": "PAT008",
+        "age": "77",
+        "sex": "Female",
+        "diagnosis": "Coronary Heart Disease (Primary); Hypertension; Osteoarthritis; Dyslipidemia; Asthma",
+        "medication": "Folic Acid (0906040L0); Losartan (0205052N0); Amlodipine (0206020A0); Codeine (0407020C0); Atorvastatin (0212000B0); Beclometasone inhaler (0302000C0); Salbutamol (0301011R0); Multivitamin (0906010); Aspirin (0209000A0); Paracetamol (0407010H0)"
+    },
+    "PAT009": {
+        "patient_id": "PAT009",
+        "age": "49",
+        "sex": "Male",
+        "diagnosis": "Dyslipidemia (Primary); Hypertension; GERD; Chronic Pain; Osteoarthritis",
+        "medication": "Folic Acid (0906040L0); Vitamin B12 (0905010); Codeine (0407020C0); Atorvastatin (0212000B0); Omeprazole (0103050P0); Metformin (0601022B0); Calcium + Vitamin D (0906020AE); Lisinopril (0205051L0); Multivitamin (0906010); Paracetamol (0407010H0); Ibuprofen (1001010J0)"
+    },
+    "PAT010": {
+        "patient_id": "PAT010",
+        "age": "65",
+        "sex": "Male",
+        "diagnosis": "Type 2 Diabetes (Primary); Heart Failure; Hypertension; Dyslipidemia; Asthma",
+        "medication": "Bisoprolol (0204000H0); Ramipril (0205051R0); Spironolactone (0202030S0); Simvastatin (0212000Y0); Gliclazide (0601021M0); Beclometasone inhaler (0302000C0); Furosemide (0202020L0); Salbutamol (0301011R0); Insulin glargine (0601012V0); Multivitamin (0906010)"
+    }
+}
