@@ -48,6 +48,7 @@ pip install transformers pandas
 ```
 1. Clone this repository
 git clone https://github.com/bakkyola/clinical-assessment-SMR
+
 cd clinical-assessment-SMR
 
 2. Prepare your environment
