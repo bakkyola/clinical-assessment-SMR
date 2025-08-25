@@ -47,11 +47,10 @@ pip install transformers pandas
 └── README.md
 ```
 1. Clone this repository
-git clone https://github.com/bakkyola/clinical-assessment-SMR
-
+git clone https://github.com/bakkyola/clinical-assessment-SMR/      
 cd clinical-assessment-SMR
 
-2. Prepare your environment
+3. Prepare your environment
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
